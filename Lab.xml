@@ -18,6 +18,7 @@
   <Version>1.0.1</Version>
   <Source></Source>
   <CustomProperties>
+    	<Property Name="ContentType" Value="OS" />
 	<Property Name="GitHubRepository" Value="https://github.com/WindowsAzure-TrainingKit/HOL-NodejsAzureWebSites-OSX" />
   </CustomProperties>   
 </Lab> 
